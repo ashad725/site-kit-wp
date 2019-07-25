@@ -11,9 +11,9 @@ about: Create a report to help us improve
 ## Steps to reproduce
 
 <!-- Please provide detailed steps on how to reproduce the bug. -->
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+1. Go to 'menu'
+2. Click on 'open'
+3. Scroll down to 'save'
 4. See error
 
 ## Screenshots
